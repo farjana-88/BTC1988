@@ -13,5 +13,6 @@ public class SmokeTest {
 		System.out.println("hi");
 		Source1 s =new Source1();
 		s.m1();
+		System.out.println("farzan");
 	}
 }
